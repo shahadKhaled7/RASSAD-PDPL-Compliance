@@ -77,6 +77,7 @@ Four deep learning approaches were developed and evaluated for multi-class viola
 ### Home Page
 
 ![Home Page](assets/screenshots/Home%20Page.png)
+
 ### Compliance Check — Violation Detection
 
 ![Check Page](assets/screenshots/Check%20Page.png)
