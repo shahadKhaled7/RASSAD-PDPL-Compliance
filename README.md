@@ -95,12 +95,12 @@ A reference page presenting the articles and requirements of the Saudi Personal 
 ### Dashboard
 
 ![Dashboard](assets/screenshots/DashBoard%20Page.png)
-An interactive dashboard presenting an overview of the analysis results through four key visualizations:
+The dashboard provides an overview of the compliance analysis results through four key visualizations:
 
-Overall Compliance Status: Shows the ratio of compliant versus non-compliant texts.
-Violation Type: Shows the distribution of detected PDPL violation categories.
-Violations Over Time: Shows the daily trend of detected violations over time.
-Frequency of Detected Violations: Shows the frequency of each detected violation type.
+- **Overall Compliance Status:** Shows the ratio of compliant versus non-compliant texts.
+- **Violation Type:** Shows the distribution of detected PDPL violation categories.
+- **Violations Over Time:** Shows the daily trend of detected violations over time.
+- **Frequency of Detected Violations:** Shows the frequency of each detected violation type.
 
 ### History
 
