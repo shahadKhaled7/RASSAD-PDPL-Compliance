@@ -77,29 +77,24 @@ Four deep learning approaches were developed and evaluated for multi-class viola
 ### Home Page
 
 ![Home Page](assets/screenshots/Home%20Page.png)
-
 ### Compliance Check — Violation Detection
 
 ![Check Page](assets/screenshots/Check%20Page.png)
-
 The Check Compliance page allows users to enter text directly or upload a PDF, DOCX, or TXT document. The system analyzes the content and identifies potential PDPL violations and their violation type.
 
 ### Explainable AI & Recommendations
 
 ![XAI & Recommendations](assets/screenshots/Check%20XAI.png)
-
 This view continues the compliance analysis by presenting the XAI explanation of the prediction along with corrective recommendations for the identified violation.
 
 ### PDPL Standards
 
 ![PDPL Standards](assets/screenshots/Standers%20Page.png)
-
 A reference page presenting the articles and requirements of the Saudi Personal Data Protection Law.
 
 ### Dashboard
 
 ![Dashboard](assets/screenshots/DashBoard%20Page.png)
-
 An interactive dashboard presenting an overview of the analysis results through four key visualizations:
 
 Overall Compliance Status: Shows the ratio of compliant versus non-compliant texts.
@@ -110,7 +105,6 @@ Frequency of Detected Violations: Shows the frequency of each detected violation
 ### History
 
 ![History](assets/screenshots/History%20Page.png)
-
 A history page for reviewing previous compliance analyses.
 
 ## Future Work
